@@ -16,3 +16,4 @@
 ![Solucion Problema 7 sin consonantes](https://github.com/user-attachments/assets/9b34c2a1-a5c0-45b3-ab36-1e7f28ec5bf4)
 ![Problema 8](https://github.com/user-attachments/assets/21763c73-70be-44a5-9759-4f261ece516d)
 ![Solucion Problema 8](https://github.com/user-attachments/assets/7e7c6095-9958-46f1-8924-79f82776916e)
+![Blackbox ai](https://github.com/user-attachments/assets/81aa22e3-c4c9-4004-83ed-d5f038b3f42b)
